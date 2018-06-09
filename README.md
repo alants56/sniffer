@@ -1,8 +1,11 @@
 #################################################################
-	alants:							
+	alants:	
+	
 		基于Linux的简单sniffer实现。			
+	
 	编译：								
 		gcc -Wall sniffer.c -o sniffer			
+	
 	运行：							
 		sudo ./sniffer(需要更改网卡，需要root权限)	
 								
